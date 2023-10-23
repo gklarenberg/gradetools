@@ -20,7 +20,7 @@ core_assist_grading <- function(
     final_grade_sheet_path,
     example_assignment_path,
     example_feedback_path,
-    example_student_identifier,
+    example_student_identifier, # check
     missing_assignment_grade = NA,
     questions_to_grade = "all",
     students_to_grade = "all",
